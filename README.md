@@ -2,8 +2,8 @@
 
 R code for creating 3D barplots.  
 
-##########################################################################
-I created an R package that supercedes this code and it is available here:
+##########################################################################  
+I created an R package that supercedes this code and it is available here:  
 https://github.com/cpwardell/barplot3d
 ##########################################################################
 
